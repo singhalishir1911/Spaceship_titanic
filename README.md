@@ -52,4 +52,4 @@ Trained Model on train.csv after splitting it into X_train and X_test
 LightGBM Accuracy: 78.83%
 
 ### 5. Creating submission.csv
-Created Submsission.csv 
+Created Submsission.csv and submitted on Kaggle
